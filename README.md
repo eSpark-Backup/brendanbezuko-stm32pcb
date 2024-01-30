@@ -16,4 +16,4 @@
 #### PCB Design
 - PCB Desgin should be two sided (2 layers).
 - See images for exact dimensions and photo example of previous version for layout kept in docs folder.
-- 
+- Strict Dimensional requirements to fit existing housing roughly 2" x 4"
