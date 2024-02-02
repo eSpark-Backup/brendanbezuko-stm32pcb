@@ -12,7 +12,7 @@
 - Wake pin should connect to Three buttons as in the old design.
 - Add 3 additional buttons connects with same style connector.
 - Programing interface (SWD) for the STM32 only, no other option should be given.
-- The board will have a boost type 5V regualator to regulator if the board needs proper 5V otherwise, we'll go with buck-boost 3.3V regulator. 
+- The board will have direct power for 5V peripherals (using 3 x AAA batteries) and only an LDO for 3.3V conversion with adequate current supply. 
 
 #### PCB Design
 - PCB Desgin should be two sided (2 layers).
