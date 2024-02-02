@@ -9,7 +9,7 @@
 - The board will have a 50K OHM 2W potentiometer PDB24 that will poke out of a hole in the center of the PCB. Datasheet is pushed to docs folder.
 - The board will have an encoder PEC11H-4220F-S0024 that also needs to poke out from same hole as above and hence dimension comparison is needed. Datasheet is pushed to docs folder.
 - Use level shifters where necessary as STM32 works on 3.3V logic.
-- Wake pin should connect to Three buttons as in the old design.
+- The 3 buttons (4-pin connector) from the old design need to be connected to PA0 (Pin-23), PC13 (Pin-27) and PE6 (Pin-5) respectively.
 - Add 3 additional buttons connects with same style connector.
 - Programing interface (SWD) for the STM32 only, no other option should be given.
 - The board will have direct power for 5V peripherals (using 3 x AAA batteries) and only an LDO for 3.3V conversion with adequate current supply. 
