@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=Controller_Section.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Controller_Section.SchDoc|FileName=Peripheral_Section.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Controller_Section.SchDoc|FileName=Power_Section.SchDoc|SheetNumber=3
