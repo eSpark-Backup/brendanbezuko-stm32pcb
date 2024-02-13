@@ -12,7 +12,8 @@
 - The 3 buttons (4-pin connector) from the old design need to be connected to PA0 (Pin-23), PC13 (Pin-27) and PE6 (Pin-5) respectively.
 - Add 3 additional buttons. The connector style will be same as battery connector WM4200-ND. There will be 3 of these 2-pin connectors for each button with connections being button input and GND on each connector for each button.
 - Programing interface (SWD) for the STM32 only, no other option should be given.
-- The board will have direct power for 5V peripherals (using 3 x AAA batteries) and only an LDO for 3.3V conversion with adequate current supply. 
+- The board will have direct power for 5V peripherals (using 3 x AAA batteries) and only an LDO for 3.3V conversion with adequate current supply.
+- There will be only one component present at a time, either encoder or potentiometer. Both won't be mounted at same time.
 
 #### PCB Design
 - PCB Desgin should be two sided (2 layers).
