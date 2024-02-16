@@ -201,6 +201,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGUUWRMC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Brendon_STM32-v1.1\Design Rule Check - PCB_STM32-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

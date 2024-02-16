@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\brendanbezuko-stm32pcb\Design_Files\PCB_STM32-v1.1.PcbDoc
-Date         : 2/15/2024
-Time         : 6:53:08 PM
+Date         : 2/16/2024
+Time         : 1:41:34 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 89.87%
+    Routing completion, 99.56%
     Connections, 227
-    Connections routed, 204
-    Connections remaining, 23
+    Connections routed, 226
+    Connections remaining, 1
 count : 4
