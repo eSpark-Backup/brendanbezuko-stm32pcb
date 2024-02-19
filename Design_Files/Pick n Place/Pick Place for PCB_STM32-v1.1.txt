@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\brendanbezuko-stm32pcb\Design_Files\Project Outputs for Brendon_STM32-v1.1\Pick Place for PCB_STM32-v1.1.txt
+C:\Users\LiberDB\Documents\GitHub\brendanbezuko-stm32pcb\Design_Files\Project Outputs for Brendon_STM32-v1.1\Pick Place for PCB_STM32-v1.1.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       18/02/24
-Time:       13:20
-Revision:   e4f7c460d61b97ea616efbedb1ae31fb943e123c
+Date:       19/02/24
+Time:       22:04
+Revision:   4695c8519bf73c56e597760b35f3bb6074e8ab5b
 Variant:    No variations
 Units used: mm
 
@@ -59,7 +59,7 @@ Q3         TopLayer    88,0145mm    21,7234mm    270      88,0145mm 21,7234mm 87
 R1         TopLayer    89,9033mm    24,9428mm    0        89,9033mm 24,9428mm 89,1413mm 24,9428mm 
 R2         TopLayer    90,7669mm    20,4724mm    180      90,7669mm 20,4724mm 91,5289mm 20,4724mm 
 R3         BottomLayer 85,9028mm    32,5628mm    180      85,9028mm 32,5628mm 86,9188mm 32,5628mm 
-R4         BottomLayer 28,4368mm    23,6474mm    90       49,0982mm 23,6474mm 28,6857mm 16,7615mm 
+R4         BottomLayer 38,8112mm    27,3304mm    90       49,0982mm 23,6474mm 29,0540mm 29,9001mm 
 R5         BottomLayer 43,9846mm    42,8244mm    0        43,9846mm 42,8244mm 43,2226mm 42,8244mm 
 R6         BottomLayer 43,9846mm    44,1071mm    0        43,9846mm 44,1071mm 43,2226mm 44,1071mm 
 R7         BottomLayer 70,8914mm    27,6098mm    270      70,8914mm 27,6098mm 70,8914mm 28,6258mm 
