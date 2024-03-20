@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_STM32-v1.1.PcbDoc   3/20/2024  10:49:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_STM32-v1.1.TXT
+ASCII RectHoles File : PCB_STM32-v1.1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             8         PTH        1.50inch (38.13mm)
+T2      12mil (0.3mm)                                             Round             188       PTH        33.42inch (848.85mm)
+T3      35mil (0.9mm)                                             Round             9         PTH        0.80inch (20.32mm)
+T4      39mil (1mm)                                               Round             3         PTH        8.16inch (207.22mm)
+T5      40mil (1.02mm)                                            Round             12        PTH        3.40inch (86.41mm)
+T6      47mil (1.2mm)                                             Rectangle         1         NPTH       0.08inch (2.05mm)
+T7      394mil (10mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              222
+
+Total Processing Time (hh:mm:ss) : 00:00:00

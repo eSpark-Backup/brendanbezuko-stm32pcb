@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Brendon_STM32-v1.1.PrjPcb]
+   Generated File[PCB_STM32-v1.1.TXT]
+   Generated File[PCB_STM32-v1.1-RectHoles.TXT]
+   Generated File[PCB_STM32-v1.1.LDP]
+   Generated File[PCB_STM32-v1.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:49:57 PM On 3/20/2024
